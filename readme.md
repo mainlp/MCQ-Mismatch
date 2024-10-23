@@ -15,10 +15,26 @@ We also released the classifiers we trained on huggingface. Please try them out.
 If you find this repository useful or our work is related to your research, please kindly cite it:
 
 ```latex
-@article{wang2024my,
-  title={" My Answer is C": First-Token Probabilities Do Not Match Text Answers in Instruction-Tuned Language Models},
-  author={Wang, Xinpeng and Ma, Bolei and Hu, Chengzhi and Weber-Genzel, Leon and R{\"o}ttger, Paul and Kreuter, Frauke and Hovy, Dirk and Plank, Barbara},
-  journal={arXiv preprint arXiv:2402.14499},
-  year={2024}
+@inproceedings{wang-etal-2024-answer-c,
+    title = "{``}My Answer is {C}{''}: First-Token Probabilities Do Not Match Text Answers in Instruction-Tuned Language Models",
+    author = {Wang, Xinpeng  and
+      Ma, Bolei  and
+      Hu, Chengzhi  and
+      Weber-Genzel, Leon  and
+      R{\"o}ttger, Paul  and
+      Kreuter, Frauke  and
+      Hovy, Dirk  and
+      Plank, Barbara},
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.441",
+    doi = "10.18653/v1/2024.findings-acl.441",
+    pages = "7407--7416",
 }
 ```
